@@ -1,0 +1,33 @@
+/* heading section css */
+header h1{
+	background-color: #325cb3;
+	color:white;
+	text-align: center;
+	background-image: linear-gradient(to right,#325cb3,#241960);
+	padding:5px;
+	font-weight: bold;
+    }
+    /* for the search button */
+    #search-btn{
+	background-color: #209b45;
+	color: white;
+    }
+    /* today's temperature details */
+    .list-details{
+	list-style-type:none;
+    }
+    /*for the five day div*/
+    .main-div{
+	background-color:#5379a1;
+	color: white;
+    }
+    .container-five-day{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .orange{
+	background-color:darkorange;
+    }
+    .purple{
+	background-color:purple
+    }
