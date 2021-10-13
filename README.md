@@ -1,4 +1,4 @@
-# assignment6 - The Weather Dashboard
+# The Weather Dashboard
 
 The purposed of this website is to allowe user to view the weather of a city they chose . 
 
